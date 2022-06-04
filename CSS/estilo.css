@@ -1,0 +1,29 @@
+header,main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+button {
+    width: 188px;
+    height: 40px;
+ border-radius: 5px;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 15px;
+ border: 2px;
+
+}
+button:hover {
+    background-color:rgba(0,0,0,0.2) ;
+}
+
+img {
+    margin-top: 155px;
+}
+footer {
+    margin-top: 38px;
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
